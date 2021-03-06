@@ -50,7 +50,7 @@ const StyledFab = withStyles({
 
 const THEME = createMuiTheme({
   typography: {
-    fontFamily: `"Caveat", sans-serif`,
+    fontFamily: `"Dancing", sans-serif`,
     // "fontSize": 14,
     // "fontWeightLight": 300,
     // "fontWeightRegular": 400,
