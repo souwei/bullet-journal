@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bullet-journal/static/css/main.b1af382e.chunk.css",
-    "main.js": "/bullet-journal/static/js/main.1cf400c2.chunk.js",
-    "main.js.map": "/bullet-journal/static/js/main.1cf400c2.chunk.js.map",
+    "main.css": "/bullet-journal/static/css/main.f9e60593.chunk.css",
+    "main.js": "/bullet-journal/static/js/main.b6204218.chunk.js",
+    "main.js.map": "/bullet-journal/static/js/main.b6204218.chunk.js.map",
     "runtime-main.js": "/bullet-journal/static/js/runtime-main.2ea1930f.js",
     "runtime-main.js.map": "/bullet-journal/static/js/runtime-main.2ea1930f.js.map",
     "static/css/2.b2fdba36.chunk.css": "/bullet-journal/static/css/2.b2fdba36.chunk.css",
@@ -12,16 +12,16 @@
     "static/js/3.8143a74c.chunk.js.map": "/bullet-journal/static/js/3.8143a74c.chunk.js.map",
     "index.html": "/bullet-journal/index.html",
     "static/css/2.b2fdba36.chunk.css.map": "/bullet-journal/static/css/2.b2fdba36.chunk.css.map",
-    "static/css/main.b1af382e.chunk.css.map": "/bullet-journal/static/css/main.b1af382e.chunk.css.map",
+    "static/css/main.f9e60593.chunk.css.map": "/bullet-journal/static/css/main.f9e60593.chunk.css.map",
     "static/js/2.cdc34409.chunk.js.LICENSE.txt": "/bullet-journal/static/js/2.cdc34409.chunk.js.LICENSE.txt",
-    "static/media/App.module.scss": "/bullet-journal/static/media/Caveat-VariableFont_wght.ddaa3ca3.ttf",
+    "static/media/App.module.scss": "/bullet-journal/static/media/DancingScript-VariableFont_wght.d618761a.ttf",
     "static/media/index.css": "/bullet-journal/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.2ea1930f.js",
     "static/css/2.b2fdba36.chunk.css",
     "static/js/2.cdc34409.chunk.js",
-    "static/css/main.b1af382e.chunk.css",
-    "static/js/main.1cf400c2.chunk.js"
+    "static/css/main.f9e60593.chunk.css",
+    "static/js/main.b6204218.chunk.js"
   ]
 }
