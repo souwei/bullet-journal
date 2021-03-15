@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bullet-journal/static/css/main.a868dc40.chunk.css",
-    "main.js": "/bullet-journal/static/js/main.abac30e2.chunk.js",
-    "main.js.map": "/bullet-journal/static/js/main.abac30e2.chunk.js.map",
+    "main.js": "/bullet-journal/static/js/main.8d84d4f8.chunk.js",
+    "main.js.map": "/bullet-journal/static/js/main.8d84d4f8.chunk.js.map",
     "runtime-main.js": "/bullet-journal/static/js/runtime-main.bcd49b2c.js",
     "runtime-main.js.map": "/bullet-journal/static/js/runtime-main.bcd49b2c.js.map",
     "static/css/2.b2fdba36.chunk.css": "/bullet-journal/static/css/2.b2fdba36.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.b2fdba36.chunk.css",
     "static/js/2.acaf5f79.chunk.js",
     "static/css/main.a868dc40.chunk.css",
-    "static/js/main.abac30e2.chunk.js"
+    "static/js/main.8d84d4f8.chunk.js"
   ]
 }
